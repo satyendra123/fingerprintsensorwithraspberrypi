@@ -1,5 +1,3 @@
-python
-Copy code
 import time
 from pyfingerprint.pyfingerprint import PyFingerprint
 import RPi.GPIO as gpio
